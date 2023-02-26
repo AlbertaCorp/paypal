@@ -3,3 +3,4 @@ Mercy
 dominion
 Akin
 Nkem
+Manager
