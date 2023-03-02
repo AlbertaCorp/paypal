@@ -1,7 +1,7 @@
-We manage;
+Supports
 Java apps
 .NET applications
 web apps
 NodeJS applications
 pyton applications
-Testing
+Bug Removed
